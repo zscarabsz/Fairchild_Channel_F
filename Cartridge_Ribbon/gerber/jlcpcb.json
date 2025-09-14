@@ -1,0 +1,104 @@
+{
+  "fpcStiffeners": [
+    {
+      "id": "e44",
+      "gerber": "Gerber_BottomStiffenerLayer_pib_0.2.GBSL",
+      "layer": "bottom",
+      "material": "pi",
+      "thickness": "0.2",
+      "path": [
+        [
+          [
+            "R",
+            7005,
+            1650,
+            1000,
+            1170,
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "e45",
+      "gerber": "Gerber_BottomStiffenerLayer_pib_0.2.GBSL",
+      "layer": "bottom",
+      "material": "pi",
+      "thickness": "0.2",
+      "path": [
+        [
+          [
+            "R",
+            21.256,
+            1650,
+            1000,
+            1170,
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "e49",
+      "gerber": "Gerber_BottomStiffenerLayer_pib_0.1.GBSL",
+      "layer": "bottom",
+      "material": "pi",
+      "thickness": "0.1",
+      "path": [
+        [
+          [
+            "R",
+            1100,
+            1485,
+            5840,
+            135,
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "e50",
+      "gerber": "Gerber_BottomStiffenerLayer_pib_0.1.GBSL",
+      "layer": "bottom",
+      "material": "pi",
+      "thickness": "0.1",
+      "path": [
+        [
+          [
+            "R",
+            1085,
+            782.5,
+            5840,
+            135,
+            0,
+            0
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "e51",
+      "gerber": "Gerber_BottomStiffenerLayer_pib_0.1.GBSL",
+      "layer": "bottom",
+      "material": "pi",
+      "thickness": "0.1",
+      "path": [
+        [
+          [
+            "R",
+            1094.5516,
+            1132.5,
+            5840,
+            135,
+            0,
+            0
+          ]
+        ]
+      ]
+    }
+  ]
+}
